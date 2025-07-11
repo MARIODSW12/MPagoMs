@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\Desarrollo\\EntregaFinalDesarrollo\\Microservices\\MPagoMS\\MPago.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E943EF7-2919-4F97-B253-D28DE513BCF5}|MPago.API.csproj|c:\\users\\user\\onedrive\\desktop\\desarrollo\\entregafinaldesarrollo\\microservices\\mpagoms\\mpago.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0E943EF7-2919-4F97-B253-D28DE513BCF5}|MPago.API.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\CommandHandlers\\AgregarMPagoCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E943EF7-2919-4F97-B253-D28DE513BCF5}|MPago.API.csproj|c:\\users\\user\\onedrive\\desktop\\desarrollo\\entregafinaldesarrollo\\microservices\\mpagoms\\mpago.api\\controllers\\mpagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E943EF7-2919-4F97-B253-D28DE513BCF5}|MPago.API.csproj|solutionrelative:controllers\\mpagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E943EF7-2919-4F97-B253-D28DE513BCF5}|MPago.API.csproj|c:\\users\\user\\onedrive\\desktop\\desarrollo\\entregafinaldesarrollo\\microservices\\mpagoms\\mpago.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E943EF7-2919-4F97-B253-D28DE513BCF5}|MPago.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\ValueObjects\\VOMarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Services\\StripeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\AgregarMPagoCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoRead\\MPagoReadRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Queries\\QueryHandlers\\GetMPagoPorIdPostorQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Consumers\\AgregarMPagoConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Events\\MPagoAgregadoEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Aggregates\\TarjetaCredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\AgregarMPagoDtoValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\MPagoDtoValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoWrite\\MPagoWriteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoStripeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\MPagoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StripeService.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Services\\StripeService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Services\\StripeService.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Services\\StripeService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Services\\StripeService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:36:29.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregarMPagoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\AgregarMPagoCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\AgregarMPagoCommand.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\AgregarMPagoCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\AgregarMPagoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:59:37.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarMPagoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\CommandHandlers\\AgregarMPagoCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\CommandHandlers\\AgregarMPagoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\CommandHandlers\\AgregarMPagoCommandHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Commands\\CommandHandlers\\AgregarMPagoCommandHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:58:26.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MPagoReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoRead\\MPagoReadRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoRead\\MPagoReadRepository.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoRead\\MPagoReadRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoRead\\MPagoReadRepository.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:57:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetMPagoPorIdPostorQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Queries\\QueryHandlers\\GetMPagoPorIdPostorQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Queries\\QueryHandlers\\GetMPagoPorIdPostorQueryHandler.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Queries\\QueryHandlers\\GetMPagoPorIdPostorQueryHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Queries\\QueryHandlers\\GetMPagoPorIdPostorQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:56:07.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Desarrollo\\EntregaFinalDesarrollo\\Microservices\\MPagoMS\\MPago.API\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Desarrollo\\EntregaFinalDesarrollo\\Microservices\\MPagoMS\\MPago.API\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T23:50:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VOMarca.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\ValueObjects\\VOMarca.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\ValueObjects\\VOMarca.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\ValueObjects\\VOMarca.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\ValueObjects\\VOMarca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:51:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarMPagoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Consumers\\AgregarMPagoConsumer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Consumers\\AgregarMPagoConsumer.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Consumers\\AgregarMPagoConsumer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Consumers\\AgregarMPagoConsumer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:43:38.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MPagoAgregadoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Events\\MPagoAgregadoEvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Events\\MPagoAgregadoEvent.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Events\\MPagoAgregadoEvent.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Events\\MPagoAgregadoEvent.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:54:39.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TarjetaCredito.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Aggregates\\TarjetaCredito.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Aggregates\\TarjetaCredito.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Aggregates\\TarjetaCredito.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Domain\\Aggregates\\TarjetaCredito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:46:47.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgregarMPagoDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\AgregarMPagoDtoValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\AgregarMPagoDtoValidator.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\AgregarMPagoDtoValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\AgregarMPagoDtoValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:40:33.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MPagoDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\MPagoDtoValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\MPagoDtoValidator.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\MPagoDtoValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\Validations\\MPagoDtoValidator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAewBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:43:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MPagoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Desarrollo\\EntregaFinalDesarrollo\\Microservices\\MPagoMS\\MPago.API\\Controllers\\MPagoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MPagoController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Desarrollo\\EntregaFinalDesarrollo\\Microservices\\MPagoMS\\MPago.API\\Controllers\\MPagoController.cs",
+              "RelativeToolTip": "Controllers\\MPagoController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowF0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:20:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MPagoWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoWrite\\MPagoWriteRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoWrite\\MPagoWriteRepository.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoWrite\\MPagoWriteRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Infrastructure\\Persistences\\Repositories\\MongoWrite\\MPagoWriteRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:57:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgregarMPagoStripeDto.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoStripeDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoStripeDto.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoStripeDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoStripeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:41:37.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgregarMPagoDto.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoDto.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\AgregarMPagoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:42:03.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MPagoDto.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\MPagoDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\MPagoDto.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\MPagoDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\samue\\OneDrive\\Documentos\\desaMari\\PruebasDSW25\\MPagoMS\\MPago.Application\\DTOs\\MPagoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:48:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Desarrollo\\EntregaFinalDesarrollo\\Microservices\\MPagoMS\\MPago.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Desarrollo\\EntregaFinalDesarrollo\\Microservices\\MPagoMS\\MPago.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:59:04.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

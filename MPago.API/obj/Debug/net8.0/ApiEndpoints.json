@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "MPago.API.Controllers.MPagoController",
+    "Method": "ActualizarMPagoPredeterminado",
+    "RelativePath": "api/mpago/ActualizarMPagoPredeterminado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idMPago",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idPostor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MPago.API.Controllers.MPagoController",
+    "Method": "AgregarMPago",
+    "RelativePath": "api/mpago/AgregarMPago",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mpago",
+        "Type": "MPago.Application.DTOs.AgregarMPagoStripeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MPago.API.Controllers.MPagoController",
+    "Method": "EliminarProducto",
+    "RelativePath": "api/mpago/EliminarMPago/{idMPago}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idMPago",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MPago.API.Controllers.MPagoController",
+    "Method": "GetMPagoPorId",
+    "RelativePath": "api/mpago/GetMPagoPorId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idMPago",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MPago.API.Controllers.MPagoController",
+    "Method": "GetMPagoPorIdPostor",
+    "RelativePath": "api/mpago/GetMPagoPorIdPostor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPostor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MPago.API.Controllers.MPagoController",
+    "Method": "GetTodosMPago",
+    "RelativePath": "api/mpago/GetTodosMPago",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

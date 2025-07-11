@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IwulzgasWeogtvnE95mt0v614j96eFTLL6gIaBzm2DM=",
+  "Source": "MPago.API",
+  "BasePath": "_content/MPago.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

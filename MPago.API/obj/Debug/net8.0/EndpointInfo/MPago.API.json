@@ -1,0 +1,166 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MPago.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/mpago/GetMPagoPorId": {
+      "get": {
+        "tags": [
+          "MPago"
+        ],
+        "parameters": [
+          {
+            "name": "idMPago",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/mpago/GetMPagoPorIdPostor": {
+      "get": {
+        "tags": [
+          "MPago"
+        ],
+        "parameters": [
+          {
+            "name": "idPostor",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/mpago/GetTodosMPago": {
+      "get": {
+        "tags": [
+          "MPago"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/mpago/AgregarMPago": {
+      "post": {
+        "tags": [
+          "MPago"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgregarMPagoStripeDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgregarMPagoStripeDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgregarMPagoStripeDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/mpago/EliminarMPago/{idMPago}": {
+      "delete": {
+        "tags": [
+          "MPago"
+        ],
+        "parameters": [
+          {
+            "name": "idMPago",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/mpago/ActualizarMPagoPredeterminado": {
+      "put": {
+        "tags": [
+          "MPago"
+        ],
+        "parameters": [
+          {
+            "name": "idMPago",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "idPostor",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AgregarMPagoStripeDto": {
+        "type": "object",
+        "properties": {
+          "idPostor": {
+            "type": "string",
+            "nullable": true
+          },
+          "idMPagoStripe": {
+            "type": "string",
+            "nullable": true
+          },
+          "correoPostor": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
