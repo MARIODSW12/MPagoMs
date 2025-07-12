@@ -30,7 +30,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Registrar configuración de MongoDB
+// Registrar configuraciÃ³n de MongoDB
 builder.Services.AddSingleton<MPagoWriteDbConfig>();
 builder.Services.AddSingleton<MPagoReadDbConfig>();
 
@@ -92,7 +92,7 @@ EndpointConvention.Map<MPagoEliminadoEvent>(new Uri("queue:" + Environment.GetEn
 EndpointConvention.Map<MPagoPredeterminadoEvent>(new Uri("queue:" + Environment.GetEnvironmentVariable("RABBIT_QUEUE_ActualizarPredeterminadoMPago")));
 
 
-// Configuración CORS permisiva
+// ConfiguraciÃ³n CORS permisiva
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
@@ -109,11 +109,10 @@ var app = builder.Build();
 app.UseCors("AllowAll");
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+
+app.UseSwagger();
+app.UseSwaggerUI();
+
 
 //app.UseHttpsRedirection();
 
